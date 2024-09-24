@@ -1,3 +1,13 @@
+/*
+to.string()
+to.fixed()
+to.exponential()
+to.precision()
+number()
+parseint()
+parsefloat()
+*/
+
 //methods
 //Fixed: fixed number with decimals
 let fixedNumber = 123.456789;

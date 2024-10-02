@@ -14,7 +14,7 @@ console.log("Math Methods");
 //Round number
 console.log("Math round: ", Math.round(5.8));
 //Round more number
-console.log("Math ceil: ", Math.ceil(3.1));
+console.log("Math ceil: ", Math.ceil(3.9));
 //Round down number
 console.log("Math floor: ", Math.floor(4.9));
 //Only keep the int number
